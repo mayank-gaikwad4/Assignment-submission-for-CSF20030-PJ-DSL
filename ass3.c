@@ -361,4 +361,3 @@ i32 GetIntInRange(i32 min_value, i32 max_value) {
         printf("Error: Out of bounds (%d to %d).\nRetry: ", min_value, max_value);
     }
 }
-
